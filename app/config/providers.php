@@ -112,7 +112,7 @@ return [ // Ordered by ABC.
         'mock' => false,
     ],
     'evernoteSandbox' => [
-        'name' => 'EvernoteSandbox',
+        'name' => 'Evernote',
         'developers' => 'https://dev.evernote.com/doc/articles/authentication.php',
         'icon' => 'icon-evernotesandbox',
         'enabled' => true,
